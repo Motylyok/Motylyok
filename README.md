@@ -1,16 +1,42 @@
-### Hi there 👋
+<!-- markdownlint-disable-next-line MD041 MD042 -->
+## [&#x200B;](#)truash
 
-<!--
-**Motylyok/Motylyok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! I'm `Motylyok`
 
-Here are some ideas to get you started:
+What `Motylyok` stands for??? I don't know
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```python
+>>> Motylyok()
+  position: Kaliningrad; 
+  height: 175cm; 
+  display: boy;
+  person: comfortable
+  color: lime
+>>> |
+```
+
+<!-- markdownlint-disable-next-line MD042 -->
+### [&#x200B;](#)So... here some info about me
+
+* Main programming language – `Python`. But I have some experience in `JavaScript` and other common languages.
+* Mostly working on the back-end stuff
+* I'm currently working at 84.51°
+* Buy Me a Coffee [click](https://www.buymeacoffee.com/motylyok)
+<!-- markdownlint-disable-next-line MD042 -->
+### [&#x200B;](#)Contact me
+
+Telegram: [Motylyokk](https://t.me/Motylyokk)
+
+<!-- markdownlint-disable-next-line MD026 MD042 -->
+#### [&#x200B;](#)You are the ...
+
+![:m](https://counter.axd1x8a.me/get/@motylyok?theme=rule34)
+<!-- markdownlint-disable-next-line MD042 -->
+#### [&#x200B;](#)...'th visitor of my profile
+
+<!-- markdownlint-disable-next-line MD042 -->
+### [&#x200B;](#)LeetCode
+
+[![Motylyok LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Motylyok&theme=dark)](https://github.com/Motylyok/github-readme)
+
+
