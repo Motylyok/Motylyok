@@ -10,8 +10,8 @@ What `Motylyok` stands for??? I don't know
   position: Kaliningrad; 
   height: 175cm; 
   display: boy;
-  person: comfortable
-  color: lime
+  person: comfortable;
+  color: lime;
 >>> |
 ```
 
@@ -22,6 +22,7 @@ What `Motylyok` stands for??? I don't know
 * Mostly working on the back-end stuff
 * I'm currently working at 84.51°
 * Buy Me a Coffee [click](https://www.buymeacoffee.com/motylyok)
+  
 <!-- markdownlint-disable-next-line MD042 -->
 ### [&#x200B;](#)Contact me
 
@@ -31,6 +32,7 @@ Telegram: [Motylyokk](https://t.me/Motylyokk)
 #### [&#x200B;](#)You are the ...
 
 ![:m](https://counter.axd1x8a.me/get/@motylyok?theme=rule34)
+
 <!-- markdownlint-disable-next-line MD042 -->
 #### [&#x200B;](#)...'th visitor of my profile
 
