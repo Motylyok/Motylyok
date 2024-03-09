@@ -26,19 +26,14 @@ What `Motylyok` stands for??? I don't know
 <!-- markdownlint-disable-next-line MD042 -->
 ### [&#x200B;](#)Contact me
 
-Telegram: [Motylyokk](https://t.me/Motylyokk)
+Telegram: [Motylyok](https://t.me/Motylyokk)
 
 <!-- markdownlint-disable-next-line MD026 MD042 -->
 #### [&#x200B;](#)You are the ...
 
-![:m](https://counter.axd1x8a.me/get/@motylyok?theme=rule34)
-
+![:motylyok](https://count.getloli.com/get/@motylyok?theme=rule34)
 <!-- markdownlint-disable-next-line MD042 -->
 #### [&#x200B;](#)...'th visitor of my profile
 
-<!-- markdownlint-disable-next-line MD042 -->
-### [&#x200B;](#)LeetCode
-
-[![Motylyok LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Motylyok&theme=dark)](https://github.com/Motylyok/github-readme)
 
 
