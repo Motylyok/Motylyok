@@ -20,7 +20,6 @@ What `Motylyok` stands for??? I don't know
 
 * Main programming language – `Python`. But I have some experience in `JavaScript` and other common languages.
 * Mostly working on the back-end stuff
-* I'm currently working at 84.51°
 * Buy Me a Coffee [click](https://www.buymeacoffee.com/motylyok)
   
 <!-- markdownlint-disable-next-line MD042 -->
